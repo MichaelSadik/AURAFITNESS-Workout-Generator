@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://{MichaelSadik}.github.io/{AURAFITNESS Workout Generator}/",
+  "homepage": "https://MichaelSadik.github.io/AURAFITNESS Workout Generator/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
